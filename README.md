@@ -9,4 +9,4 @@ https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercise
 
 
 
-CONTINUE: https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent
+CONTINUE: https://developers.google.com/machine-learning/crash-course/linear-regression/programming-exercise
