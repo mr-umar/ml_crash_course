@@ -9,4 +9,4 @@ https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercise
 
 
 
-CONTINUE: https://developers.google.com/machine-learning/crash-course/logistic-regression
+CONTINUE: https://developers.google.com/machine-learning/crash-course/classification
