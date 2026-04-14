@@ -9,4 +9,4 @@ https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercise
 
 
 
-CONTINUE:https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc
+CONTINUE: https://developers.google.com/machine-learning/crash-course/classification/prediction-bias
